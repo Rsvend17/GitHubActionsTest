@@ -1,1 +1,3 @@
-
+analyzer:
+  exclude: 
+  - lib/exclude_me/*.dart
